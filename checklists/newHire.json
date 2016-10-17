@@ -241,12 +241,6 @@
 		"daysToComplete": 20, 
 		"dependsOn": ["dayZero"]
 		},
-	"learnAboutOffsite": { 
-		"displayName": "Learn about next offsite.", 
-		"description": "Ask in Slack when the next offsite is: \"When is the next 18F-irl?\" (Slackbot should respond.) And if you want to make a message for Slackbot to respond, follow the instructions <a href=\"https://18f.slack.com/customize/slackbot\">here</a>.",
-		"daysToComplete": 20, 
-		"dependsOn": ["dayZero"]
-		},
 	"addToTrello": { 
 		"displayName": "Get Trello access", 
 		"description": "Ask #admins-trello to add you to the 18F Trello board.",
