@@ -68,6 +68,10 @@ To remove all Docker images associated with this project, run
 docker-compose down -v
 ```
 
+If you would like to override any of the environment variables (or anything else)
+specified in `docker-compose.yml`, you can create a `docker-compose.override.yml`
+file as described at https://docs.docker.com/compose/extends/
+
 ### Running Locally
 
 If you'd like to run Checklistomania locally, follow these steps:
